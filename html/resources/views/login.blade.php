@@ -39,14 +39,14 @@
                                 </a>
                             </p>
                         </div>
-                        <!-- <div class="mt-3 text-center">
+                        <div class="mt-3 text-center">
                             <p class="mb-0">
-                                I dont't have an account?
+                                У вас нет аккаунта?
                                 <a class="fw-medium" href="{{url('register')}}">
-                                    Register
+                                    Регистрация
                                 </a>
                             </p>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
